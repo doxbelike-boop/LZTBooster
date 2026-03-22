@@ -1,10 +1,10 @@
 The LZTBooster subscription will be as follows:
 
-₽4,500 - Month
-₽18,500 - Six months
-₽28,900 - Year
-Password change - ₽250
-Hwid change - ₽400
+4,500₽ | 12$ - Month
+18,500₽ | 221$ - Six months
+28,900₽ | 345$ - Year
+Password change - 250₽ | 3$
+Hwid change - 400₽ | 5$
 
 The program includes:
 - Account reselling bot (AFK, + account promotion and pinning + statistics)
