@@ -10,7 +10,7 @@ Password change - 250₽ | 3$
 
 Hwid change - 400₽ | 5$
 
-The program includes:
+*The program includes:*
 - Account reselling bot (AFK, + account promotion and pinning + statistics)
 - Account auto-pinning bot (+ promotion and statistics)
 
