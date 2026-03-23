@@ -1,21 +1,29 @@
-The LZTBooster subscription will be as follows:
+**⚡ LZTBooster — Подписка**
 
-4,500₽ | 12$ - Month
+**💰 Цены:**
+- `1 месяц` — 4 500₽ / 55$
+- `6 месяцев` — 18 500₽ / 221$
+- `1 год` — 28 900₽ / 345$
 
-18,500₽ | 221$ - Six months
+**🔧 Дополнительно:**
+- Смена пароля — 250₽ / 3$
+- Смена HWID — 400₽ / 5$
 
-28,900₽ | 345$ - Year
+---
 
-Password change - 250₽ | 3$
+**📦 В подписку входит:**
 
-Hwid change - 400₽ | 5$
+🤖 **Бот перепродажи аккаунтов**
+Полностью автоматический режим — бот сам ищет, покупает, подтверждает и выставляет аккаунты на продажу. Встроенное закрепление и поднятие лотов, статистика продаж.
 
-*The program includes:*
-- Account reselling bot (AFK, + account promotion and pinning + statistics)
-- Account auto-pinning bot (+ promotion and statistics)
+📌 **Бот автозакрепления**
+Автоматически закрепляет и поднимает твои лоты без участия. Со статистикой.
 
-- @Metawwe - Telegram
-- @TG_FARM - LOLZ
+---
+
+**📞 Контакты:**
+- Telegram: @Metawwe
+- LOLZ: @TG_FARM
 
 
 **⚡ LZTBooster — Инструкция по настройке**
