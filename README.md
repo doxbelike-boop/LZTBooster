@@ -68,7 +68,7 @@
 - **`check_interval`** — интервал проверки (сек)
 
 ### 3. Настройка поиска
-```json
+--json
 "search_params": {
     "country": ["US"],         // Страна: US, RU, UA, KZ и др.
     "password": "no",          // no - без пароля, yes - любые
