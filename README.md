@@ -53,7 +53,7 @@
 
 | Канал | Контакт |
 |-------|---------|
-| 📱 **Telegram** | [@Metawwe](https://t.me/zxczxczfgsdf) |
+| 📱 **Telegram** | [@Metawwe](https://t.me/Metawwe) |
 | 💬 **LOLZ** | [@TG_FARM](https://lolz.live/members/tg_farm/) |
 
 ---
